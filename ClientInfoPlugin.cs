@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Net;
 
+//verified it works
+
 namespace DNWS
 {
   class ClientInfoPlugin : IPlugin
